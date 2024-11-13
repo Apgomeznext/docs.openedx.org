@@ -202,8 +202,7 @@ Preferred Usage
      - Use the verb “can” to describe ability, capability, or capacity. Use “might” to describe possibility or eventuality. Because “may” implies permission, the Open edX documentation team prefers to use one of the other two verbs.
    * - Capitalization
      - Use title capitalization for headings. When referring to elements in the user interface, follow the capitalization that is used in the labels or text.
-      Do not capitalize job titles, such as professor, instructor, or program manager. Do not capitalize terms unless they are trademarks, so refer to the instructor dashboard or a course about video rather than the Instructor Dashboard or a course About video.
-      Always capitalize “Open edX” with a capital O to begin, a space between “Open” and “edX”, and a capital “X” to end. Do not use spellings such as “OPEN EDX”, “OpenedX”, or “openedx” (unless referring specifically to terms used in code). Further, “Open edX” must always be used as an adjective per trademark rules.
+      Do not capitalize job titles, such as professor, instructor, or program manager. Do not capitalize terms unless they are trademarks, so refer to the instructor dashboard or a course about video rather than the Instructor Dashboard or a course About video. Always capitalize “Open edX” with a capital O to begin, a space between “Open” and “edX”, and a capital “X” to end. Do not use spellings such as “OPEN EDX”, “OpenedX”, or “openedx” (unless referring specifically to terms used in code). Further, “Open edX” must always be used as an adjective per trademark rules.
    * - Contractions
      - Do not use.
    * - Cross-references
@@ -220,8 +219,7 @@ Preferred Usage
    * - Pronouns
      - Avoid ambiguous pronouns such as all, each, many, several, some, that, them, these, those.
    * - Punctuation
-     - Avoid slashes, particularly “and/or”. They introduce ambiguity.
-     Avoid em dashes. Putting non-restrictive relative clauses into separate sentences leads to simpler, clearer writing.
+     - Avoid slashes, particularly “and/or”. They introduce ambiguity.Avoid em dashes. Putting non-restrictive relative clauses into separate sentences leads to simpler, clearer writing.
      Do not use smart quotes or smart apostrophes. Use the straight versions of these marks.
    * - Redundancy
      - Avoid including unnecessary words. For example, instead of “Create a new {noun},” use “Create a {noun},” and instead of “Delete or edit an existing {noun}”, use “Delete or edit a {noun}.”
